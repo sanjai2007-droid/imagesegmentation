@@ -1,0 +1,2 @@
+# imagesegmentation
+This project implements Image Segmentation using Deep Learning, where an image is divided into meaningful regions to identify objects at the pixel level. The model is trained to accurately detect and separate different objects within an image.
